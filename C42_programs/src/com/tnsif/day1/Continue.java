@@ -4,9 +4,10 @@ public class Continue {
 
 	public static void main(String[] args) {
 		//normal iterating process
-		for(int i=3; i<=10; i++) {
+		for(int i=1; i<=10; i++) {
 			//check the number is even 
 			//when it's even continue statement is work
+			//odd number is skipped
 			if(i%2 !=0)
 				continue;
 			//now print only the even number
