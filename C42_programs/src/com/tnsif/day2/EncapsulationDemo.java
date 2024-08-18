@@ -62,9 +62,7 @@ public class EncapsulationDemo {
 
 	public static void main(String[] args) {
 		
-		
-		
-		
+				
 		EncapsulationDemo obj = new EncapsulationDemo(playerName, jersyNo, orderNo);
 	
 		obj.setPlayerName("Virat kohli");
@@ -74,18 +72,6 @@ public class EncapsulationDemo {
 	
 	}
 
-	
-	
-	
-	
-	
 	//Access Modifiers or specifiers
-	
-	
-	
-	
-	
-	
-	
 
 }
